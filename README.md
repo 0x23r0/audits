@@ -6,7 +6,7 @@ Audit Portfolio - 0x23r0
 
 # About 0x23r0
 
-I started in Web3 security in February 2023 and have since continued auditing part-time while working full-time as a software engineer, during which I have identified over 100 vulnerabilities across different protocols. My audits on Code4rena are mostly performed under my second alias, "hunter_w3b."
+I started in Web3 security in February 2023 and have since continued auditing part-time while working full-time as a software engineer, during which I have identified over 100 vulnerabilities across different protocols. Some of my audits are performed under my second alias, "hunter_w3b."
 
 For private audit or consulting requests, please reach out to me via Twitter (@0x23r0), Telegram (@Hashmattabibi), or Discord (0x23r0).
 
