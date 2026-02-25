@@ -3,12 +3,15 @@
 Audit Portfolio - 0x23r0
 
 
+---
 
 # About 0x23r0
 
 I started in Web3 security in February 2023 and have since continued auditing part-time while working full-time as a software engineer, during which I have identified over 100 vulnerabilities across different protocols. Some of my audits are performed under my second alias, "hunter_w3b."
 
 For private audit or consulting requests, please reach out to me via Twitter (@0x23r0), Telegram (@Hashmattabibi), or Discord (0x23r0).
+
+---
 
 # Competitive Audits
 
@@ -45,6 +48,7 @@ For private audit or consulting requests, please reach out to me via Twitter (@0
 
 
 
+---
 
 # Gas Optimization Audits 2023
 
@@ -74,6 +78,30 @@ For private audit or consulting requests, please reach out to me via Twitter (@0
 | [Canto Application Specific Dollars and Bonding Curves for 1155s](https://github.com/code-423n4/2023-11-canto) | 2023.11.18 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-11-canto)        |
 | [Olas](https://github.com/code-423n4/2023-12-autonolas)                                                        | 2024.01.09 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-12-autonolas)    |
 | [reNFT](https://github.com/code-423n4/2024-01-renft)                                                           | 2024.01.19 | Code4rena | Hunter_w3b | [Link](https://github.com/code-423n4/2024-01-renft)        |
+
+---
+
+# Private Security Review
+
+| Protocol | Description | Report |
+| -------- | ----------- | ------ |
+| Soon..     |         |    |
+
+---
+
+# Solo Audits
+
+| Client | Description | Report |
+| ------ | ----------- | ------ |
+| Soon..   |         |    |
+
+---
+
+# Bug Bounties
+
+| Program | Description | Severity | Writeups |
+| ------- | ----------- | -------- | -------- |
+| Soon..    |         |      |      |
 
 
 
