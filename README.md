@@ -5,7 +5,6 @@
 - [Competitive Audits](#competitive-audits)
 - [Gas Optimization Audits 2023](#gas-optimization-audits-2023)
 - [Private Security Review](#private-security-review)
-- [Solo Audits](#solo-audits)
 - [Bug Bounties](#bug-bounties)
 
 ---
@@ -91,14 +90,6 @@ For private audit or consulting requests, please reach out to me via Twitter (@0
 | Protocol | Description | Report |
 | -------- | ----------- | ------ |
 | Soon..     |         |    |
-
----
-
-# Solo Audits
-
-| Client | Description | Report |
-| ------ | ----------- | ------ |
-| Soon..   |         |    |
 
 ---
 
