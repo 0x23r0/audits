@@ -1,7 +1,12 @@
 # Audit Portfolio - 0x23r0
 
-Audit Portfolio - 0x23r0
 
+- [About 0x23r0](#about-0x23r0)
+- [Competitive Audits](#competitive-audits)
+- [Gas Optimization Audits 2023](#gas-optimization-audits-2023)
+- [Private Security Review](#private-security-review)
+- [Solo Audits](#solo-audits)
+- [Bug Bounties](#bug-bounties)
 
 ---
 
