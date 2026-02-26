@@ -101,7 +101,6 @@ For private audit or consulting requests, please reach out to me via Twitter (@0
 | -------- | ----------- | ------ |------ |------ |
 | [Chiliz Chain System Contracts](https://audits.sherlock.xyz/contests/550)     |Chiliz Chain is the world’s leading sports-focused blockchain, with an ecosystem embraced by 70+ elite sports teams. An EVM compatible POSA layer 1 blockchain based on a fork of BSC chain.         |   Sherlock |Private|Private|
 |[Covalent - EWM Light Client](https://audits.sherlock.xyz/contests/618)|Covalent is a modular data infrastructure layer that’s dedicated to solving long-term data availability on Ethereum. The Covalent Network’s Ethereum Wayback Machine (EWM) ensures secure, decentralized access to Ethereum’s transaction data after it’s purged. This contest focuses on auditing the contracts for the EWM Light Client, a product designed to ensure data availability in the EWM.|Sherlock|Private|Private|
-|[Rezerve Money](https://audits.sherlock.xyz/contests/1134)|Rezerve Money (RZR) is a decentralized treasury accumulation protocol with one mission: accumulate 1 million ETH—powered entirely by community and DeFi.|Sherlock| Private |Private |
 |[Privacy Cash](https://audits.sherlock.xyz/contests/1160)|Privacy Cash is a compliant privacy pool on Solana. The contest is on auditing the ZK circuit, Solana programs and key crypto/encryption primitives used in the product, to ensure the protocol logic is sound. |Sherlock|Private|Private|
 ---
 
