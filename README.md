@@ -25,11 +25,11 @@ For private audit or consulting requests, please reach out via Twitter (@0x23r0)
 
 | Protocol                                                                  | Description                               | Provider           | Report  | Date     |
 | ------------------------------------------------------------------------- | ----------------------------------------- | ------------------ | ------- | -------- |
-| TAO                                            | USDC LP manager (Uniswap V3 + Slipstream) | Pashov Audit Group | Pending | Mar 2026 |
-| Aave V3                                                                   | Non-custodial lending/borrowing protocol  |Pashov&nbsp;Audit&nbsp;Group | Pending | Mar 2026 |
-| Privacy Cash                 | Solana privacy pool (ZK + programs)       | Sherlock           | Private | Nov 2025 |
-| Chiliz Chain System Contracts | Sports EVM L1 (BSC fork)                  | Sherlock           | Private | Nov 2024 |
-| Covalent - EWM Light Client   | Ethereum data light client                | Sherlock           | Private | Oct 2024 |
+| TAO                                            | USDC LP manager (Uniswap V3 + Slipstream) | Pashov Audit Group | Pending | Mar&nbsp;2026 |
+| Aave V3                                                                   | Non-custodial lending/borrowing protocol  |Pashov&nbsp;Audit&nbsp;Group | Pending | Mar&nbsp;2026 |
+| Privacy Cash                 | Solana privacy pool (ZK + programs)       | Sherlock           | Private | Nov&nbsp;2025 |
+| Chiliz Chain System Contracts | Sports EVM L1 (BSC fork)                  | Sherlock           | Private | Nov&nbsp;2024 |
+| Covalent - EWM Light Client   | Ethereum data light client                | Sherlock           | Private | Oct&nbsp;2024 |
 
 ---
 
@@ -89,30 +89,30 @@ For private audit or consulting requests, please reach out via Twitter (@0x23r0)
 | 28|[Salty.IO](https://code4rena.com/audits/2024-01-saltyio)   | Jan 2024 | Code4rena |Hunter_w3b| [Link](https://code4rena.com/audits/2024-01-saltyio) |
 | 25|  [Curves](https://code4rena.com/audits/2024-01-curves)| Jan 2024 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2024-01-curves#gas-optimizations)|
 | 27| [Opus](https://code4rena.com/audits/2024-01-opus)  | Jan 2024 |Code4rena | Hunter_w3b| [Link](https://code4rena.com/reports/2024-01-opus#audit-analysis)
-| 24| [reNFT](https://github.com/code-423n4/2024-01-renft)                                                           | Jan&nbsp; 2024 | Code4rena | Hunter_w3b | [Link](https://github.com/code-423n4/2024-01-renft)        |
-| 23| [Olas](https://github.com/code-423n4/2023-12-autonolas)                                                        | Jan&nbsp; 2024 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-12-autonolas#gas-optimizations)    |
-|22 | [Canto Application Specific Dollars and Bonding Curves for 1155s](https://github.com/code-423n4/2023-11-canto) | Nov&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-11-canto#gas-optimizations)        |
-| 21| [Kelp DAO rsETH](https://github.com/code-423n4/2023-11-kelp)                                                   | Nov&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-11-kelp#gas-optimizations)         |
-|20 | [Badger eBTC Audit + Certora Formal Verification Competition](https://github.com/code-423n4/2023-10-badger)    | Nov&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-10-badger#gas-optimizations)       |
-|19 | [Ethena Labs](https://github.com/code-423n4/2023-10-ethena)                                                    | Oct&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-10-ethena#gas-optimizations)       |
-|18 | [zkSync Era](https://github.com/code-423n4/2023-10-zksync)                                                     | Oct&nbsp; 2023 | Code4rena | Hunter_w3b | [Private]()                                                |
-|17 | [Brahma](https://github.com/code-423n4/2023-10-brahma)                                                         | Oct&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-10-brahma#gas-optimizations)       |
-|16| [Maia DAO - Ulysses](https://github.com/code-423n4/2023-09-maia)                                               | Oct&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-09-maia#gas-optimizations)         |
-|15 | [Canto Liquidity Mining Protocol](https://github.com/code-423n4/2023-10-canto)                                 | Oct&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-10-canto#gas-optimizations)        |
-| 14| [Ondo Finance](https://github.com/code-423n4/2023-09-ondo)                                                     | Sep&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-09-ondo#gas-optimizations)         |
-| 13| [Tangible Caviar ](https://github.com/code-423n4/2023-08-tangible)                                             | Aug&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://github.com/code-423n4/2023-08-)             |
-| 12| [Tapioca DAO](https://github.com/code-423n4/2023-07-tapioca)                                                   | Aug&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-07-tapioc#gas-optimizationsa)      |
-| 11| [Amphora Protocol](https://github.com/code-423n4/2023-07-amphora)                                              | Jul&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://github.com/code-423n4/2023-07-amphora)      |
-| 10| [LUKSO](https://github.com/code-423n4/2023-06-lukso)                                                           | Jul&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-06-lukso#gas-optimizations)        |
-| 9| [PoolTogether](https://github.com/code-423n4/2023-07-pooltogether)                                             | Jul&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-07-pooltogether#gas-optimizations) |
-| 8| [Maia DAO Ecosystem](https://github.com/code-423n4/2023-05-maia)                                               | Jul&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-05-maia#gas-optimizations)         |
-| 7| [Lybra Finance](https://github.com/code-423n4/2023-06-lybra)                                                   | Jul&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-06-lybra#gas-optimizations)        |
-| 6| [Ajna Protocol](https://github.com/code-423n4/2023-05-ajna)                                                    | May&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-05-ajna#gas-optimizations)         |
-| 5| [Frankencoin](https://github.com/code-423n4/2023-04-frankencoin)                                               | Apr&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-04-frankencoin#gas-optimizations)  |
-| 4| [Caviar Private Pools](https://github.com/code-423n4/2023-04-caviar)                                           | Apr&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-04-caviar#gas-optimizations)       |
-| 3| [Neo Tokyo audit](https://github.com/code-423n4/2023-03-neotokyo)                                              | Mar&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-03-neotokyo#gas-optimizations)     |
-| 2| [Wenwin audit](https://github.com/code-423n4/2023-03-wenwin)                                                   | Mar&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-03-wenwin#gas-optimizations)       |
-| 1| [Ethos Reserve audit](https://github.com/code-423n4/2023-02-ethos)                                             | Mar&nbsp; 2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-02-ethos#gas-optimizations)        |
+| 24| [reNFT](https://github.com/code-423n4/2024-01-renft)                                                           | Jan&nbsp;2024 | Code4rena | Hunter_w3b | [Link](https://github.com/code-423n4/2024-01-renft)        |
+| 23| [Olas](https://github.com/code-423n4/2023-12-autonolas)                                                        | Jan&nbsp;2024 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-12-autonolas#gas-optimizations)    |
+|22 | [Canto Application Specific Dollars and Bonding Curves for 1155s](https://github.com/code-423n4/2023-11-canto) | Nov&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-11-canto#gas-optimizations)        |
+| 21| [Kelp DAO rsETH](https://github.com/code-423n4/2023-11-kelp)                                                   | Nov&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-11-kelp#gas-optimizations)         |
+|20 | [Badger eBTC Audit + Certora Formal Verification Competition](https://github.com/code-423n4/2023-10-badger)    | Nov&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-10-badger#gas-optimizations)       |
+|19 | [Ethena Labs](https://github.com/code-423n4/2023-10-ethena)                                                    | Oct&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-10-ethena#gas-optimizations)       |
+|18 | [zkSync Era](https://github.com/code-423n4/2023-10-zksync)                                                     | Oct&nbsp;2023 | Code4rena | Hunter_w3b | [Private]()                                                |
+|17 | [Brahma](https://github.com/code-423n4/2023-10-brahma)                                                         | Oct&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-10-brahma#gas-optimizations)       |
+|16| [Maia DAO - Ulysses](https://github.com/code-423n4/2023-09-maia)                                               | Oct&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-09-maia#gas-optimizations)         |
+|15 | [Canto Liquidity Mining Protocol](https://github.com/code-423n4/2023-10-canto)                                 | Oct&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-10-canto#gas-optimizations)        |
+| 14| [Ondo Finance](https://github.com/code-423n4/2023-09-ondo)                                                     | Sep&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-09-ondo#gas-optimizations)         |
+| 13| [Tangible Caviar ](https://github.com/code-423n4/2023-08-tangible)                                             | Aug&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://github.com/code-423n4/2023-08-)             |
+| 12| [Tapioca DAO](https://github.com/code-423n4/2023-07-tapioca)                                                   | Aug&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-07-tapioc#gas-optimizationsa)      |
+| 11| [Amphora Protocol](https://github.com/code-423n4/2023-07-amphora)                                              | Jul&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://github.com/code-423n4/2023-07-amphora)      |
+| 10| [LUKSO](https://github.com/code-423n4/2023-06-lukso)                                                           | Jul&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-06-lukso#gas-optimizations)        |
+| 9| [PoolTogether](https://github.com/code-423n4/2023-07-pooltogether)                                             | Jul&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-07-pooltogether#gas-optimizations) |
+| 8| [Maia DAO Ecosystem](https://github.com/code-423n4/2023-05-maia)                                               | Jul&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-05-maia#gas-optimizations)         |
+| 7| [Lybra Finance](https://github.com/code-423n4/2023-06-lybra)                                                   | Jul&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-06-lybra#gas-optimizations)        |
+| 6| [Ajna Protocol](https://github.com/code-423n4/2023-05-ajna)                                                    | May&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-05-ajna#gas-optimizations)         |
+| 5| [Frankencoin](https://github.com/code-423n4/2023-04-frankencoin)                                               | Apr&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-04-frankencoin#gas-optimizations)  |
+| 4| [Caviar Private Pools](https://github.com/code-423n4/2023-04-caviar)                                           | Apr&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-04-caviar#gas-optimizations)       |
+| 3| [Neo Tokyo audit](https://github.com/code-423n4/2023-03-neotokyo)                                              | Mar&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-03-neotokyo#gas-optimizations)     |
+| 2| [Wenwin audit](https://github.com/code-423n4/2023-03-wenwin)                                                   | Mar&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-03-wenwin#gas-optimizations)       |
+| 1| [Ethos Reserve audit](https://github.com/code-423n4/2023-02-ethos)                                             | Mar&nbsp;2023 | Code4rena | Hunter_w3b | [Link](https://code4rena.com/reports/2023-02-ethos#gas-optimizations)        |
 
 
 ---
