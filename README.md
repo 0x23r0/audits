@@ -25,8 +25,8 @@ For private audit or consulting requests, please reach out via Twitter (@0x23r0)
 
 | Protocol                                                                  | Description                               | Provider           | Report  | Date     |
 | ------------------------------------------------------------------------- | ----------------------------------------- | ------------------ | ------- | -------- |
-| TAO                                            | USDC LP manager (Uniswap V3 + Slipstream) | Pashov Audit Group | Pending | Mar 2026 |
-| Aave V3                                                                   | Non-custodial lending/borrowing protocol  | Pashov Audit Group | Pending | Mar 2026 |
+| TAO                                            | USDC LP manager (Uniswap V3 + Slipstream) | PashovAuditGroup | Pending | Mar 2026 |
+| Aave V3                                                                   | Non-custodial lending/borrowing protocol  |PashovAuditGroup | Pending | Mar 2026 |
 | Privacy Cash                 | Solana privacy pool (ZK + programs)       | Sherlock           | Private | Nov 2025 |
 | Chiliz Chain System Contracts | Sports EVM L1 (BSC fork)                  | Sherlock           | Private | Nov 2024 |
 | Covalent - EWM Light Client   | Ethereum data light client                | Sherlock           | Private | Oct 2024 |
