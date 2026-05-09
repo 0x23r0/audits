@@ -25,6 +25,7 @@ For private audit or consulting requests, please reach out via Twitter (@0x23r0)
 
 | Protocol                                                                  | Description                               | Provider           | Report  | Date     |
 | ------------------------------------------------------------------------- | ----------------------------------------- | ------------------ | ------- | -------- |
+| HyperAMM                                            | Delta-neutral AMM on Hyperliquid | Pashov Audit Group | Pending | Apr&nbsp;2026 |
 | TAO                                            | USDC LP manager (Uniswap V3 + Slipstream) | Pashov Audit Group | Pending | Mar&nbsp;2026 |
 | Aave V3                                                                   | Non-custodial lending/borrowing protocol  |Pashov&nbsp;Audit&nbsp;Group | Pending | Mar&nbsp;2026 |
 | Privacy Cash                 | Solana privacy pool (ZK + programs)       | Sherlock           | Private | Nov&nbsp;2025 |
