@@ -14,7 +14,8 @@
 
 I started in Web3 security in February 2023 and have continued auditing part-time while working full-time as a smart contract engineer. During this time, I have identified over 100 vulnerabilities across various protocols. Some of my audits have been performed under my second alias, ‘hunter_w3b.’
 
-As of April 2026, I am completing my full-time role as a smart contract engineer and transitioning to focus full-time on on-chain investigations and advanced Web3 security research, while continuing my part-time auditing journey.
+As of April 2026, I am completing my full-time role as a smart contract engineer and transitioning to focus on full-time auditing and advanced Web3 security research.
+
 
 For private audit or consulting requests, please reach out via Twitter (@0x23r0), Telegram (@Hashmattabibi), or Discord (0x23r0).
 
