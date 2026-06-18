@@ -27,14 +27,14 @@ For private audit or consulting requests, please reach out via Twitter (@0x23r0)
 
 | Protocol | Description | Provider | Report | Date |
 | --- | --- | --- | --- | --- |
-| Layer-3 | Escrowed trading competitions with oracle settlement | Pashov Audit Group | Still&nbsp;Pending | June&nbsp;2026 |
+| Layer-3 | Escrowed trading competitions with oracle settlement | Pashov&nbsp;Audit&nbsp;Group | Still&nbsp;Pending | June&nbsp;2026 |
 | Symbiotic |  | BailSec | Still&nbsp;Pending | June&nbsp;2026 |
 | sPRL2V2 | Token incentives, vesting, and fee distribution. | BailSec | Still&nbsp;Pending | June&nbsp;2026 |
 | Stader-labs | Liquid staking protocol for BNB/MATIC  | BailSec | Still&nbsp;Pending | May&nbsp;2026 |
-| Raac | RAAC token locking and governance | Pashov Audit Group | Still&nbsp;Pending | May&nbsp;2026 |
-| HyperAMM | Delta-neutral AMM on Hyperliquid | Pashov Audit Group | Still&nbsp;Pending | Apr&nbsp;2026 |
-| TAO | USDC LP manager for Uniswap V3 and Slipstream | Pashov Audit Group | Still&nbsp;Pending | Mar&nbsp;2026 |
-| Aave V3 | Non-custodial lending and borrowing protocol | Pashov Audit Group | Still&nbsp;Pending | Mar&nbsp;2026 |
+| Raac | RAAC token locking and governance | Pashov&nbsp;Audit&nbsp;Group | Still&nbsp;Pending | May&nbsp;2026 |
+| HyperAMM | Delta-neutral AMM on Hyperliquid | Pashov&nbsp;Audit&nbsp;Group | Still&nbsp;Pending | Apr&nbsp;2026 |
+| TAO | USDC LP manager for Uniswap V3 and Slipstream | Pashov&nbsp;Audit&nbsp;Group | Still&nbsp;Pending | Mar&nbsp;2026 |
+| Aave V3 | Non-custodial lending and borrowing protocol | Pashov&nbsp;Audit&nbsp;Group | Still&nbsp;Pending | Mar&nbsp;2026 |
 | Privacy Cash | Solana privacy pool using ZK circuits and programs | Sherlock | Private | Nov&nbsp;2025 |
 | Chiliz Chain System Contracts | Sports-focused EVM L1 system contracts based on a BSC fork | Sherlock | Private | Nov&nbsp;2024 |
 | Covalent - EWM Light Client | Ethereum data light client | Sherlock | Private | Oct&nbsp;2024 |
