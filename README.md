@@ -12,7 +12,7 @@
 
 # About 0x23r0
 
-I started in Web3 security in February **2023** and have continued auditing part-time while working full-time as a **smart contract engineer**. During this time, I have completed **50+** smart contract audits and identified **150+** vulnerabilities across various protocols. Some of my audits have been performed under my second alias, "hunter_w3b."
+I started in Web3 security in **February 2023** and have continued auditing part-time while working full-time as a **smart contract engineer**. During this time, I have completed **50+** smart contract audits and identified **150+** vulnerabilities across various protocols. Some of my audits have been performed under my second alias, "hunter_w3b."
 
 As of April 2026, I am completing my full-time role as a smart contract engineer and transitioning to focus on full-time auditing and advanced Web3 security research.
 
