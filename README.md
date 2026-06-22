@@ -27,6 +27,7 @@ For private audit or consulting requests, please reach out via Twitter (@0x23r0)
 
 | Protocol | Description | Provider | Report | Date |
 | --- | --- | --- | --- | --- |
+| Symbiotic - Liquid lane adapters | Symbiotic liquid lane adapter contracts | BailSec | Still&nbsp;Pending | June&nbsp;2026 |
 | Layer-3 | Escrowed trading competitions with oracle settlement | Pashov&nbsp;Audit&nbsp;Group | Still&nbsp;Pending | June&nbsp;2026 |
 | sPRL2V2 | Token incentives, vesting, and fee distribution. | BailSec | Still&nbsp;Pending | June&nbsp;2026 |
 | Stader-labs | Liquid staking protocol for BNB/MATIC  | BailSec | Still&nbsp;Pending | May&nbsp;2026 |
